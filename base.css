@@ -7,7 +7,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	/* Colors */
-	--color-text: #000;
+	--color-text: #f80d1d;
 	--color-bg-main: #fff;
 	--color-menu-item: #fff;
 	--color-menu-item-hover: #e0f3ca;
