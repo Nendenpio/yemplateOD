@@ -402,7 +402,7 @@ main {
 }
 
 /* Top Navigation Style */
-.codrops-links {
+.shannenpio-links {
 	position: relative;
 	display: flex;
 	justify-content: center;
@@ -411,7 +411,7 @@ main {
 	white-space: nowrap;
 }
 
-.codrops-icon {
+.shannenpio-icon {
 	display: inline-block;
 	margin: 0.15em;
 	padding: 0.25em;
@@ -433,11 +433,11 @@ main {
 		display: block;
 		padding: 0.85em 0.5em 2em;
 	}
-	.codrops-header {
+	.shannenpio-header {
 		flex-direction: column;
 		align-items: center;
 	}
-	.codrops-header__title {
+	.shannenpio-header__title {
 		padding-bottom: 0.25em;
 		font-size: 1.5em;
 		text-align: center;
@@ -449,7 +449,7 @@ main {
 	.github {
 		display: none;
 	}
-	.codrops-links {
+	.shannenpio-links {
 		margin: 0;
 	}
 	.menu {
